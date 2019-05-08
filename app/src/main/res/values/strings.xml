@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fresher Welcome</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scan">Scan</string>
+    <string name="login">You can scan and login both of your and friends Vote tickets</string>
+
+</resources>

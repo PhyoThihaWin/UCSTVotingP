@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.github.florent37.arclayout.ArcLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/diagonalLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="50dp"
+    app:layout_optimizationLevel="standard"
+    app:arc_cropDirection="cropInside"
+    app:arc_height="10dp"
+    app:arc_position="top">
+
+    <FrameLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff" />
+
+
+</com.github.florent37.arclayout.ArcLayout>
+
